@@ -1,0 +1,43 @@
+
+*******************************************
+
+ The NN is being built...
+With the following arguments received  by console:
+
+        The size of the 1st layer: 5
+        The number of total layers: 4
+        The R value: 2
+        The number of neurons in the output is: 1
+
+
+        Output of the Model: OpenMP
+        The Output 0 out 0 is 0.456406
+
+*******************************************
+
+ The NN is being built...
+With the following arguments received  by console:
+
+        The size of the 1st layer: 10
+        The number of total layers: 9
+        The R value: 2
+        The number of neurons in the output is: 1
+
+
+        Output of the Model: OpenMP
+        The Output 0 out 0 is 0.475573
+
+
+*******************************************
+
+ The NN is being built...
+With the following arguments received  by console:
+
+        The size of the 1st layer: 50
+        The number of total layers: 49
+        The R value: 2
+        The number of neurons in the output is: 1
+
+
+        Output of the Model: OpenMP
+        The Output 0 out 0 is 0.999899
